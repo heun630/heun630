@@ -17,7 +17,7 @@
 
 
 ### **🎓 Academic Activities**
-- <sub><sup><b>서울대 블록체인 학회 [Decipher](https://decipher.ac/) 13기</b> (2024.09 - now)</sup></sub>
 - <sub><sup><b>고려대학교 정보보호대학원 석사과정</b> (2023.09 - now)</sup></sub>
+- <sub><sup><b>서울대 블록체인 학회 [Decipher](https://decipher.ac/) 13기</b> (2024.09 - now)</sup></sub>
 
 ---
