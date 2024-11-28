@@ -1,5 +1,8 @@
 # 이자흔 heun
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheun630&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Go Badge](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white)](https://golang.org/)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheun630&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Go Badge](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white)](https://golang.org/) 
+
+### Contact
+[![X Badge](https://img.shields.io/badge/X-000000?style=flat-square&logo=X&logoColor=white)](https://x.com/0xheun) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/0xheun)
 
 ### **💼 Career**
 - <sub><sup><b>[Fineitn](https://play.google.com/store/apps/details?id=com.fineitn.app&hl=ko)(전자지갑 서비스)</b> Backend & Blockchain Developer (2021.07 - 2023.09)</sup></sub>  
