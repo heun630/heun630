@@ -6,12 +6,12 @@
   
 
 
-### **🛠 Internships**
+### **🛠 Internship**
 - <sub><sup><b>[온더](https://www.tokamak.network/) (Onther)</b> Blockchain Developer Intern (2024.09 - now)</sup></sub>  
   
 
 
-### **🌟 Side Projects**
+### **🌟 Side Project**
 - <sub><sup><b>[AllofNode](https://allofnode.xyz/)</b> NaaS (Node as a Service) CTO (2024.06 - now)</sup></sub>  
   
 
