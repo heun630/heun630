@@ -5,7 +5,7 @@
 [![X Badge](https://img.shields.io/badge/X-000000?style=flat-square&logo=X&logoColor=white)](https://x.com/0xheun) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/0xheun)
 
 ### **💼 Career**
-- <sub><sup><b>[Fineitn](https://play.google.com/store/apps/details?id=com.fineitn.app&hl=ko)(전자지갑 서비스)</b> Backend & Blockchain Developer (2021.07 - 2023.09)</sup></sub>  
+- <sub><sup><b>Fineitn(전자지갑 서비스)</b> Backend & Blockchain Developer (2021.07 - 2023.09)</sup></sub>  
   
 
 
