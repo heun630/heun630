@@ -11,7 +11,7 @@
 
 
 ### **🛠 Internship**
-- <sub><sup><b>[온더](https://www.tokamak.network/) (Onther)</b> Blockchain Developer Intern (2024.09 - now)</sup></sub>  
+- <sub><sup><b>[온더](https://www.tokamak.network/) (Onther)</b> Blockchain Developer Intern (2024.09 - 2025.04)</sup></sub>  
   
 
 
